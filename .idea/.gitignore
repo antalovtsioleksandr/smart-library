@@ -1,0 +1,13 @@
+# Build output
+target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+/shelf/
+/workspace.xml
+
+# System files
+.DS_Store
+Thumbs.db
